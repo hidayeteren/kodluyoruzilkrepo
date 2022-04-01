@@ -6,7 +6,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. Markdown özellikleri kull
 # Installation
 
 [Git ilkRepo clone](hidayeteren/kodluyoruzilkrepo) 
-gh repo clone hidayeteren/kodluyoruzilkrepo
+
 ***
 # Usage
 
@@ -18,5 +18,9 @@ cd kodluyoruzilkrepo
 code .
 ***
 # Contributing
-***
+
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+***
+
+# Lisans
+MIT
