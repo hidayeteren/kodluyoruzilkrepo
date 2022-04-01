@@ -24,3 +24,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Lisans
 MIT
+
+![image](https://user-images.githubusercontent.com/63645953/161259664-45fa71b2-f31f-4ecf-bd4b-c15b5918fa26.png)
+
